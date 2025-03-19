@@ -2,7 +2,7 @@ import random
 
 
 # this script will be a minesweeper implentation in python
-
+# Also learning vim while i'm at it 
 
 # randomly place mines w/o overlap
 # in each non-mine cell calculate # of mines in neighboring cells
